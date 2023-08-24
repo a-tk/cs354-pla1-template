@@ -2,7 +2,7 @@
 # Programming Language Assignment 1: Scheme
 
 * Author: Your Name
-* Class: CS321 Section #
+* Class: CS354 Section #
 * Semester: 
 
 
